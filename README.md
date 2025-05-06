@@ -23,6 +23,6 @@ Tento repozitář je pouze nekomerčním projektem. Cílem je přinést kvalitn�
 Všechny návody byly přeloženy a jsou chráněny autorskými právy iFixit.
 ⚡ Přispějte!
 
-Pokud máte zájem přidat vlastní návody nebo vylepšit stávající, vítáme jakýkoli příspěvek. Stačí vytvořit pull request a my rádi vaši práci začleníme.
+Pokud máte zájem přidat vlastní návody nebo vylepšit stávající, vítáme jakýkoli příspěvek. Stačí vytvořit pull request a já vaši práci začlením.
 
 Tento repozitář vznikl, protože věřím v právo na opravu a chci, aby se lidé nemuseli spoléhat pouze na drahé opravy v servisech. Mějte na paměti, že oprava vlastních zařízení nejen šetří peníze, ale přispívá i k udržitelnosti a ochraně životního prostředí!
